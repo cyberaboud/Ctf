@@ -1,2 +1,4 @@
-# Ctf
-CTF Challenges that i created or enjoyed
+```sh
+sudo docker build -t errce .
+sudo docker run -d -p 8001:8000 errce
+```
